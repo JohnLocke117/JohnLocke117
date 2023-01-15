@@ -1,5 +1,5 @@
-# 💫 About Me:
-Wannabe Deep Learner
+![banner](https://user-images.githubusercontent.com/99555479/212535441-2e656642-06ae-45ca-9e12-b3a05ec36304.png)
+
 
 
 ## 🌐 Socials:
