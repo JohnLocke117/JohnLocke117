@@ -1,5 +1,6 @@
-![varun arya](https://user-images.githubusercontent.com/99555479/228784408-6479fdd1-f22d-44ed-aa80-1ef4eecb96ce.png)
+<h1 align="center">Varun Arya</h1>
 
+![banner](https://user-images.githubusercontent.com/99555479/229031244-d7bcbc1f-99ec-48b7-88dc-2965ba8bbd58.jpg)
 
 
 ## 🌐 Socials:
