@@ -14,7 +14,7 @@
 <table><tr><td valign="top" width="33%">
 
 
-<h2 align="center">Front-End</h2>
+<h2 align="center">FrontEnd</h2>
   <br />
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /></a>  
@@ -33,7 +33,7 @@
 
 
 
-<h2 align="center">Back-End</h2>
+<h2 align="center">BackEnd</h2>
   <br />
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35" /></a>  
@@ -78,8 +78,7 @@
 <a href="https://instagram.com/balloon_arya" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
 <br/>  
 
