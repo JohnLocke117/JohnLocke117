@@ -7,43 +7,7 @@
 </div>  
   
 
-<br/>  
-
-
-# Tech Stack:
-<table><tr><td valign="top" width="33%">
-
-
-<h2 align="center">FrontEnd</h2>
-  <br />
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>     
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a> 
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-<h2 align="center">BackEnd</h2>
-  <br />
-<div align="center">    
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="40" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-<h2 align="center">Dev-Ops</h2>
-<br />
-<div align="center">   
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="40" /></a>  
-</div>
-
-</td></tr></table>  
+<br/>   
 
 <br/>  
 
